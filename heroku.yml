@@ -3,4 +3,4 @@ build:
     - heroku/go
 
 run:
-  web: go-getting-started
+  web: hello-sabino

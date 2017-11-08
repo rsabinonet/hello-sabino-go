@@ -1,12 +1,12 @@
 {
-  "name": "Start on Heroku: Go",
-  "description": "Go Getting Started Example App",
+  "name": "Hello Sabino GO",
+  "description": "Primeiro Teste com GO",
   "keywords": [
     "getting-started",
     "go",
     "sample",
     "example"
   ],
-  "website": "http://github.com/heroku/go-getting-started",
-  "repository": "http://github.com/heroku/go-getting-started"
+  "website": "http://github.com/rsabinonet/hello-sabino",
+  "repository": "http://github.com/rsabinonet/hello-sabino"
 }

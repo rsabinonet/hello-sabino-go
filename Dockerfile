@@ -1,12 +1,12 @@
 FROM alpine:latest
 
-MAINTAINER Edward Muller <edward@heroku.com>
+MAINTAINER Rodrigo Sabino (rsabino@gmail.com)
 
 WORKDIR "/opt"
 
-ADD .docker_build/go-getting-started /opt/bin/go-getting-started
+ADD .docker_build/hello-sabino /opt/bin/hello-sabino
 ADD ./templates /opt/templates
 ADD ./static /opt/static
 
-CMD ["/opt/bin/go-getting-started"]
+CMD ["/opt/bin/hello-sabino"]
 
